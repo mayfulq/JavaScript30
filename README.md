@@ -7,3 +7,5 @@
 ### 2017-5-26 add [02 - JS + CSS Clock](https://mayfulq.github.io/JavaScript30/task02/index.html)
 
 ### 2017-5-26 add [03 - CSS Variables](https://mayfulq.github.io/JavaScript30/task03/index.html)
+
+### 2017-5-26 add [04 - Array Cardio Day 1](https://mayfulq.github.io/JavaScript30/task04/index.html)
