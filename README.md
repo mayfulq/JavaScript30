@@ -11,3 +11,5 @@
 ### 2017-5-26 add [04 - Array Cardio Day 1](https://mayfulq.github.io/JavaScript30/task04/index.html)
 
 ### 2017-5-26 add [05 - Flex Panel Gallery](https://mayfulq.github.io/JavaScript30/task05/index.html)
+
+### 2017-5-27 add [06 - Type Ahead](https://mayfulq.github.io/JavaScript30/task06/index.html)
