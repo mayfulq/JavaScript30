@@ -15,3 +15,5 @@
 ### 2017-5-27 add [06 - Type Ahead](https://mayfulq.github.io/JavaScript30/task06/index.html)
 
 ### 2017-5-27 add [07 - Array Cardio Day2](https://mayfulq.github.io/JavaScript30/task07/index.html)
+
+### 2017-5-27 add [08 - Fun with HTML5 Canvas](https://mayfulq.github.io/JavaScript30/task08/index.html)
