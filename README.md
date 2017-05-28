@@ -21,3 +21,5 @@
 ### 2017-5-27 add [09 - Dev Tools Domination](https://mayfulq.github.io/JavaScript30/task09/index.html)
 
 ### 2017-5-28 add [10 - Hold Shift and Check Checkboxes](https://mayfulq.github.io/JavaScript30/task10/index.html)
+
+### 2017-5-28 add [11 - Custom Video Player](https://mayfulq.github.io/JavaScript30/task11/index.html)
