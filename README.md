@@ -19,3 +19,5 @@
 ### 2017-5-27 add [08 - Fun with HTML5 Canvas](https://mayfulq.github.io/JavaScript30/task08/index.html)
 
 ### 2017-5-27 add [09 - Dev Tools Domination](https://mayfulq.github.io/JavaScript30/task09/index.html)
+
+### 2017-5-28 add [10 - Hold Shift and Check Checkboxes](https://mayfulq.github.io/JavaScript30/task10/index.html)
