@@ -29,3 +29,5 @@
 ### 2017-5-29 add [13 - Slide in on Scroll](https://mayfulq.github.io/JavaScript30/task13/index.html)
 
 ### 2017-5-29 add [14 - JavaScript References VS Copying](https://mayfulq.github.io/JavaScript30/task14/index.html)
+
+### 2017-5-29 add [15 - LocalStorage and Event Delegation](https://mayfulq.github.io/JavaScript30/task15/index.html)
