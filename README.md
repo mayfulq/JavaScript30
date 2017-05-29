@@ -23,3 +23,5 @@
 ### 2017-5-28 add [10 - Hold Shift and Check Checkboxes](https://mayfulq.github.io/JavaScript30/task10/index.html)
 
 ### 2017-5-28 add [11 - Custom Video Player](https://mayfulq.github.io/JavaScript30/task11/index.html)
+
+### 2017-5-29 add [12 - Key Sequence Detection](https://mayfulq.github.io/JavaScript30/task12/index.html)
