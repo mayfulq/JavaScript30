@@ -1,5 +1,5 @@
 # [15 - LocalStorage and Event Delegation](https://mayfulq.github.io/JavaScript30/task15/index.html)
-
+- add checkAll and UncheckAll
 - Reference to :
 
  [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage)
