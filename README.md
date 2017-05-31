@@ -33,3 +33,5 @@
 ### 2017-5-29 add [15 - LocalStorage and Event Delegation](https://mayfulq.github.io/JavaScript30/task15/index.html)
 
 ### 2017-5-31 add [16 - Mouse Move Shadow](https://mayfulq.github.io/JavaScript30/task16/index.html)
+
+### 2017-5-31 add [17 - Sort Without Articles](https://mayfulq.github.io/JavaScript30/task17/index.html)
