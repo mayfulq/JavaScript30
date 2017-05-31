@@ -43,3 +43,5 @@
 ### 2017-5-31 add [20 - Native Speech Recognition](https://mayfulq.github.io/JavaScript30/task20/index.html)
 
 ### 2017-5-31 add [21 - Geolocation based Speedometer and Compass](https://mayfulq.github.io/JavaScript30/task21/index.html)
+
+### 2017-5-31 add [22 - Follow Along Link Highlighter](https://mayfulq.github.io/JavaScript30/task22/index.html)
