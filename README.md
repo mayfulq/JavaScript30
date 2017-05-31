@@ -41,3 +41,5 @@
 ### 2017-5-31 add [19 - Webcam Fun](https://mayfulq.github.io/JavaScript30/task19/index.html)
 
 ### 2017-5-31 add [20 - Native Speech Recognition](https://mayfulq.github.io/JavaScript30/task20/index.html)
+
+### 2017-5-31 add [21 - Geolocation based Speedometer and Compass](https://mayfulq.github.io/JavaScript30/task21/index.html)
