@@ -30,6 +30,7 @@
 
   triggers.forEach(a => a.addEventListener('mouseenter', (e) => {
       linkCoords = e.target.getBoundingClientRect();
+      highlight.style.transition = 'all 0.2s';
       highlightLink();
   }));
 
