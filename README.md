@@ -49,3 +49,5 @@
 ### 2017-6-01 add [23 - Speech Synthesis](https://mayfulq.github.io/JavaScript30/task23/index.html)
 
 ### 2017-6-01 add [24 - Sticky Nav](https://mayfulq.github.io/JavaScript30/task24/index.html)
+
+### 2017-6-01 add [25 - Event Capture, Propagation, Bubbling and Once](https://mayfulq.github.io/JavaScript30/task25/index.html)
