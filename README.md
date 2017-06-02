@@ -53,3 +53,5 @@
 ### 2017-6-01 add [25 - Event Capture, Propagation, Bubbling and Once](https://mayfulq.github.io/JavaScript30/task25/index.html)
 
 ### 2017-6-01 add [26 - Stripe Follow Along Nav](https://mayfulq.github.io/JavaScript30/task26/index.html)
+
+### 2017-6-02 add [27 - Click and Drag](https://mayfulq.github.io/JavaScript30/task27/index.html)
