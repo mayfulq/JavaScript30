@@ -59,3 +59,5 @@
 ### 2017-6-02 add [28 - Video Speed Controller](https://mayfulq.github.io/JavaScript30/task28/index.html)
 
 ### 2017-6-02 add [29 - Countdown Timer](https://mayfulq.github.io/JavaScript30/task29/index.html)
+
+### 2017-6-02 add [30 - Whack A Mole Game](https://mayfulq.github.io/JavaScript30/task30/index.html)
